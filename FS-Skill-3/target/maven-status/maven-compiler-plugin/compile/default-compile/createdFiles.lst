@@ -1,0 +1,4 @@
+com/skill3/entity/Product.class
+com/skill3/demo/HQLDemo.class
+com/skill3/util/HibernateUtil.class
+com/skill3/loader/ProductDataLoader.class
